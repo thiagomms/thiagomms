@@ -4,7 +4,7 @@
     -💻 Estou focando em meus estudos e projetos nas áreas de front-end,</br>
 que é uma das áreas que tenho interesse em me especializar.
 <p>
-<p>👤 Meu Site Web <a href="https://thiagomms.netlify.app/">portifólio</a>.<p>
+<p>👤 Meu Web Site<a href="https://thiagomms.netlify.app/">portifólio</a>.<p>
     
         
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagomms&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
