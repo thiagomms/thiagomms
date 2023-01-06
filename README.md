@@ -2,7 +2,7 @@
 <p tex-Align="center">
 <p> -👨‍🎓Sou estudante com Bacharel em Sistemas de Infomarção</br>
     -💻 Estou focando em meus estudos e projetos nas áreas de front-end,</br>
-que é uma das áreas que tenho interesse em me especializar.
+pois é uma das áreas em que tenho interesse de me especializar.
 <p>
 <p>👤 Web Site<a href="https://thiagomms.netlify.app/">portifólio</a>.<p>
     
