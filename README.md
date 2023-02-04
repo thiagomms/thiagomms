@@ -1,6 +1,6 @@
 ### Olá! Eu sou Thiago Mateus 👋
 <p tex-Align="center">
-<p> -👨‍🎓Sou estudante com Bacharel em Sistemas de Infomarção</br>
+<p> -👨‍🎓Formado com Bacharel em Sistemas de Infomarção</br>
     -💻 Estou focando em meus estudos e projetos nas áreas de front-end,</br>
 pois é uma das áreas em que tenho interesse de me especializar.
 <p>
