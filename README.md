@@ -34,8 +34,11 @@ pois é uma das áreas em que tenho interesse de me especializar.
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Rafa-Node" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40"
-        src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim">    
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>   
 </div>
 
 <br><br>
