@@ -13,7 +13,7 @@ pois é uma das áreas em que tenho interesse de me especializar.
     
     
 <br>
-<img align="center" alt="gif" height="120" width="180" src="https://github.com/thiagomms/thiagomms/blob/main/monkey-pissed.gif">
+<img align="middle" alt="gif" height="120" width="180" src="https://github.com/thiagomms/thiagomms/blob/main/monkey-pissed.gif">
 <div>
 
 ## 📂Repositórios principais
