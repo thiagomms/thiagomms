@@ -18,7 +18,7 @@ pois é uma das áreas em que tenho interesse de me especializar.
 
 ## 📂Repositórios principais
 <a href="https://github.com/thiagomms/ecommerce-react">
-  <img height="" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagomms&repo=CRUD-React&show_owner=true&theme=vue-dark" />
+  <img height="" src="https://github-readme-stats.vercel.app/api/pin/?username=thiagomms&repo=ecommerce-react&show_owner=true&theme=vue-dark" />
 </a>
 
 
