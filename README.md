@@ -28,7 +28,7 @@ pois é uma das áreas em que tenho interesse de me especializar.
 <div align="center"><br>    
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,vue,angular,bootstrap,gitlab,nodejs,mongodb,mysql,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,react,vue,angular,bootstrap,gitlab,nodejs,mongodb,mysql,tailwind,ts,sass,gulp" />
   </a>
 </p>   
 </div>
